@@ -67,7 +67,7 @@ To create a simple personal portfolio website as part of the CodSoft Internship 
 ### 📸 Output Screenshot
 
 Included in the repository as:
-`page.png`
+![Portfolio Output](page.png)
 
 ---
 
