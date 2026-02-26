@@ -13,8 +13,11 @@ This project is created as part of the **CodSoft Web Development Internship (Lev
 ### 👩‍💻 Intern Details
 
 **Name:** Katikala Kaveri
+
 **Intern ID:** BY25RY270303
+
 **Domain:** Web Development
+
 **Organization:** CodSoft
 
 ---
@@ -71,6 +74,3 @@ Included in the repository as:
 
 ---
 
-### ✅ Status
-
-✔ Task Completed Successfully
