@@ -66,6 +66,10 @@ This project helped in understanding the basics of:
 To create a simple personal portfolio website as part of the CodSoft Internship Level 1 Task 1.
 
 ---
+🚀 Live Link
+GitHub Pages Live Site:
+
+👉 https://kaveri0410.github.io/CodSoft-Portfolio-Task1/
 
 ### 📸 Output Screenshot
 
